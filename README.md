@@ -1,1 +1,4 @@
-# git-mavenpractice
+# maven-project
+
+Simple Maven Project
+<br
